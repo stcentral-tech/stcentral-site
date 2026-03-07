@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 600">
+<path d="M80 330 Q200 200 320 300 T560 280" stroke="white" stroke-width="28" fill="none"/>
+<path d="M120 380 Q240 250 360 350 T600 330" stroke="white" stroke-width="28" fill="none"/>
+<text x="700" y="360" font-size="180" fill="white" font-family="Arial">TailwindCSS</text>
+</svg>

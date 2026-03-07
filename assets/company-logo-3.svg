@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 600">
+<g transform="translate(220,300)" stroke="white" stroke-width="14" fill="none">
+<ellipse rx="160" ry="60"/>
+<ellipse rx="160" ry="60" transform="rotate(60)"/>
+<ellipse rx="160" ry="60" transform="rotate(-60)"/>
+<circle r="12" fill="white"/>
+</g>
+<text x="420" y="360" font-size="180" fill="white" font-family="Arial">React</text>
+</svg>

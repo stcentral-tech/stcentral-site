@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 2000 600">
+<path d="M120 340 A120 120 0 0 1 260 340" stroke="white" stroke-width="18" fill="none"/>
+<path d="M220 300 A160 160 0 0 1 420 340" stroke="white" stroke-width="18" fill="none"/>
+<line x1="120" y1="340" x2="420" y2="340" stroke="white" stroke-width="18"/>
+<text x="520" y="360" font-size="180" fill="white" font-family="Arial">Google Cloud</text>
+</svg>
