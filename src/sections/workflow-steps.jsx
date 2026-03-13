@@ -11,7 +11,7 @@ const steps = [
     description:
       "We kick things off with a short discovery chat to learn how you work, what’s causing headaches, and what you want to achieve. We talk to the right people, check your current tools, and spot quick wins as well as longer‑term improvements. By the end you’ll have a clear brief and a prioritized roadmap so every next step actually moves the needle.",
     link: "#contact",
-    image: "/assets/workflow1.png",
+    image: "./assets/workflow1.png",
   },
   {
     id: 2,
@@ -20,7 +20,7 @@ const steps = [
     description:
       "We turn that plan into action: wireframes, tech architecture, and a clear timeline. We build in short cycles — prototypes first, then production‑ready features — focusing on secure integrations, solid error handling, and a smooth user experience. You’ll see working demos early and get predictable delivery milestones.",
     link: "#contact",
-    image: "/assets/workflow2.png",
+    image: "./assets/workflow2.png",
   },
   {
     id: 3,
@@ -29,7 +29,7 @@ const steps = [
     description:
       "After launch we keep things running with regular updates, security patches, and performance tweaks so your systems stay reliable. We monitor how things perform, pull simple analytics to show impact, and suggest improvements as you grow. Our support is practical — focused on uptime, security, and making sure you actually get value from the work.",
     link: "#contact",
-    image: "/assets/workflow3.png",
+    image: "./assets/workflow3.png",
   },
 ];
 
