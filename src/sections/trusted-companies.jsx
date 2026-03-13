@@ -2,11 +2,11 @@ import { motion } from "framer-motion";
 
 export default function TrustedCompanies() {
   const logos = [
-    "/assets/company-logo-1.svg",
-    "/assets/company-logo-2.svg",
-    "/assets/company-logo-3.svg",
-    "/assets/company-logo-4.svg",
-    "/assets/company-logo-5.svg",
+    "./assets/company-logo-1.svg",
+    "./assets/company-logo-2.svg",
+    "./assets/company-logo-3.svg",
+    "./assets/company-logo-4.svg",
+    "./assets/company-logo-5.svg",
   ];
 
   return (
