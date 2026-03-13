@@ -34,7 +34,7 @@ export default function Footer() {
       {/* Logo */}
       <a href="#">
         <motion.img
-          src="/assets/logo.svg"
+          src="./assets/logo.svg"
           alt="logo"
           className="h-16 w-30"
           width={205}
