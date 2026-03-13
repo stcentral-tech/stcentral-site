@@ -35,7 +35,7 @@ export default function Navbar() {
                 {/* Logo with gentle hover motion */}
                 <a href='#' className='flex items-center gap-2'>
                     <motion.img
-                        src='/assets/logo.svg'
+                        src='./assets/logo.svg'
                         alt='logo'
                         className='h-16 w-30'
                         width={205}
